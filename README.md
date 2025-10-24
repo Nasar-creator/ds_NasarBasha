@@ -34,14 +34,6 @@ Outlier clipping (99th percentile)
 
 Visualization (Boxplots, histograms, correlation heatmaps)
 
-## 📊 Summary of Findings
-Sentiment	Mean PnL	Median PnL	Std Dev
-Extreme Fear	52,794	22,562	101,262
-Extreme Greed	21,866	3,128	56,957
-Fear	33,541	1,412	78,352
-Greed	12,432	678	52,213
-Neutral	19,297	1,819	37,995
-
 ## 🧾 Author
 
 Name: Nasar Basha
