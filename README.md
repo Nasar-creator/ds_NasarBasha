@@ -1,5 +1,5 @@
 # Data Science Report: Market Sentiment & PnL Analysis
-
+## Github Link: https://github.com/Nasar-creator/ds_NasarBasha.git 
 ## 📘 Overview
 This project analyzes trading performance based on historical data and the Fear & Greed Index.  
 The goal is to explore whether market sentiment affects trading outcomes (PnL).
